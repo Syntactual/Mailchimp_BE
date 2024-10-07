@@ -1,6 +1,5 @@
 {
   "name": "mailchimp-be",
-  "packageManager": "yarn@4.3.1",
   "scripts": {
     "start": "ts-node ./src/index.ts",
     "test": "jest"
